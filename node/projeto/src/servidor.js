@@ -8,5 +8,5 @@ app.get('/produtos', (req, res, next) => {
 })
 
 app.listen(porta , () => {
-    console.log( `Servidor rodando na porta ${porta}.`)
+    console.log( `Servidor está rodando na porta ${porta}.`)
 })
