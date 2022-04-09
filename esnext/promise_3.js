@@ -13,4 +13,4 @@ function gerarNumerosEntre(min , max) {
 gerarNumerosEntre(1 , 60) 
     .then (num => num *10)
     .then (numX10 => `O número gerado foi ${numX10}`)
-    .then (console.log)
+    .then (console)
