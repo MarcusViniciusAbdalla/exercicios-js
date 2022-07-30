@@ -2,6 +2,10 @@
 
 ## Curso Ministrado pelo Professor Leonardo Leitão
 
+## Tecnologias abordadas:
+
+### Lógica de programação , JavaScript , Node.js , ESNext , HTML5 , CSS3 , Ajax , Gulp , Webpack , jQuery , Bootstrap , React , Next , VueJs , Angular 9 , Mongo DB e Express
+
 ### Qual conteúdo do Curso?
 
 Alguns conceitos sobre os tópicos que são abordados no curso:
